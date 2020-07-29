@@ -8,7 +8,7 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech
 
-### Day 0: July 28, 2020,Tuesday
+### Day 1: July 28, 2020,Tuesday
 
 **Today's Progress**: Completed the basic CSS course on Freecodecamp.org I really love working with CSS.
 

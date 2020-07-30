@@ -15,3 +15,12 @@
 **Thoughts:** I really enjoy working with CSS, tomorrow i hope make something original with the html and css that i know.
 
 **Link to work:** https://www.freecodecamp.org/yarreech
+
+### Day 2: July 29, 2020, Wednesday
+
+**Today's Progress**: Today was a very busy day (groceries, hair) so i didn't get to program a lot today, i did start the visual design course on freecodecamp and I am still making my way through it. 
+
+**Thoughts:** I need to make sure i always have a set time in my day dedicated to programming.
+
+**Link to work:** https://www.freecodecamp.org/yarreech
+

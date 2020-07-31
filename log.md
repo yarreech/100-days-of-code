@@ -24,3 +24,11 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech
 
+### Day 3: July 30, 2020, Thursday
+
+**Today's Progress**: I am now half way through the Applied Visual Design Course. I am going to try coding in the morning instead of at night when i am too tired. So I am going to finish the other half of this course tomorrow on day 4. 
+
+**Thoughts:** Move hour to the morning when I have more willpower and energy/alertness. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech
+

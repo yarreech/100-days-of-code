@@ -32,3 +32,14 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech
 
+### Day 4: July 31, 2020, Friday
+
+**Today's Progress**: almost (80%) done the Applied Visual Design Course. Still need to hammer out my routine.
+
+**Thoughts:** So greatful for all the video tutorials out there.
+
+**Link to work:** https://www.freecodecamp.org/yarreech
+
+
+
+

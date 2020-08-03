@@ -40,7 +40,9 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech
 
-### Day 5: August 1, 2020, Saturday, and August 2, 2020, Sunday
+### Day 5: August 1, 2020, Saturday and 
+
+### Day 6: August 2, 2020, Sunday
 
 **Today's Progress**: Missed one day (day 5) because of my friend's birthday party. However today (Day 6) i finished the Applied Visual Design Course. I will be working on learning Javascript in the coming week.
 

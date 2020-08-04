@@ -50,6 +50,14 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech
 
+### Day 7: August 3, 2020, Sunday
+
+**Today's Progress**: Finished the applied accesibility course. 
+
+**Thoughts:** One week since i started this challenge and i have finished 3 courses so i am happy so far. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech
+
 
 
 

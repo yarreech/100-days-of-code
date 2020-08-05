@@ -58,6 +58,13 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech
 
+### Day 8: August 4, 2020, Tuesday
+
+**Today's Progress**: I think today has been my most productive day since the first day. Finished two courses today, the Responsive web design principles course and the CSS Flexbox course on freecodecamp.org. I was also able to recreate my twitter profile in html and css.  
+
+**Thoughts:** I am really productive when i listen to binural beats in the background. I wonder why that is? 
+
+**Link to work:** https://www.freecodecamp.org/yarreech and https://github.com/yarreech/100-days-of-code/blob/master/twitter-profile.html
 
 
 

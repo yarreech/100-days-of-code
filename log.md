@@ -66,5 +66,13 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech and https://github.com/yarreech/100-days-of-code/blob/master/twitter-profile.html
 
+### Day 9: August 5, 2020, Wednesday 
+
+**Today's Progress**: Finished the html and css section of my certificate on freecodecamp.org! That means i will be starting Javascript soon, I am so excited! But first i have to complete the five responsive web design projects. i have already started the first one, I have to create a tribute page on Codepen, I chose to do John Lewis.  
+
+**Thoughts:** I really like using codepen.io  
+
+**Link to work:** https://www.freecodecamp.org/yarreech and https://codepen.io/yarreech/full/vYGYPXN
+
 
 

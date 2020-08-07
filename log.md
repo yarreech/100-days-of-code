@@ -74,5 +74,13 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech and https://codepen.io/yarreech/full/vYGYPXN
 
+### Day 10: August 6, 2020, Thursday
+
+**Today's Progress**: Finished the first of the five responsive web development projects ( a tribute page). I have started making the survey one next. 
+
+**Thoughts:** I am so glad i am sticking to this, tomorrow i am taking my friend Nina out so i will try to code in the morning instead so i dont miss another day.  
+
+**Link to work:** https://www.freecodecamp.org/yarreech and https://codepen.io/yarreech/full/vYGYPXN
+
 
 

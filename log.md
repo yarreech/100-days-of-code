@@ -82,5 +82,31 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech and https://codepen.io/yarreech/full/vYGYPXN
 
+### Day 11: August 7, 2020, Friday
+
+**Today's Progress**: Finished the survey project on freecodecamp.org, I initally made a link error but was able to fix it.  I have now started on the landing page. 
+
+**Thoughts:** At first it was a little embarrasing to have submitted my code to twitter with a bug, but i got over it, its ok to make mistakes. 
+**Link to work:** https://www.freecodecamp.org/yarreech and https://codepen.io/yarreech/full/QWNwoaq
+
+### Day 12: August 8, 2020, Saturday
+
+**Today's Progress**: Didn't have much time today since i was out running errands all day. Worked a little bit on the landing page. 
+
+**Thoughts:** At first it was a little embarrasing to have submitted my code to twitter with a bug, but i got over it, its ok to make mistakes. 
+**Link to work:** https://codepen.io/yarreech/full/oNxXxZE
+
+### Day 13: August 9, 2020, Sunday
+
+**Today's Progress**: Almost done with the landing page, just having a little trouble with my flex box. 
+
+**Thoughts:** I really want to make sure I finish these last two projects this week so I can go on to the JavaScript lessons I am excited for! 
+**Link to work:** https://codepen.io/yarreech/full/oNxXxZE
+
+
+
+
+
+
 
 

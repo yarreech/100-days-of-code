@@ -103,6 +103,29 @@
 **Thoughts:** I really want to make sure I finish these last two projects this week so I can go on to the JavaScript lessons I am excited for! 
 **Link to work:** https://codepen.io/yarreech/full/oNxXxZE
 
+### Day 14: August 10, 2020, Monday
+
+**Today's Progress**: Finished the landing page and i am now working on the technical page project. 
+
+**Thoughts:** I am trying my best to become a better problem solver critical thinker, very much needed when i come across bugs in my code. 
+**Link to work:** https://www.freecodecamp.org/yarreech and https://codepen.io/yarreech/full/GRZpoXv
+
+### Day 15: August 11, 2020, Tuesday
+
+**Today's Progress**: Still working on the technical page.
+
+**Thoughts:** This is not my favorite project by far, I find it tedious and not as exciting as the other projects especially the personal portfolio which i really want to get to.  
+**Link to work:** https://www.freecodecamp.org/yarreech and https://codepen.io/yarreech/full/GRZpoXv
+
+### Day 16 and 17: August 12 and 13 Wednesday and Thursday
+
+**Today's Progress**: Finished the last two projects, the technical page and the porfolio! So excited to be done. 
+
+**Thoughts:** I am so excited to start JavaScript on Friday! I have been wanting to get to JavaScript since I started 100 days of Code. I am also happy to have finished my first certificate. I am not going to quit 100 days of code no matter.
+**Link to work:** https://www.freecodecamp.org/yarreech and https://codepen.io/yarreech/full/GRZpoXv and https://codepen.io/yarreech/full/ExKVpGe
+
+
+
 
 
 

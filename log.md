@@ -124,6 +124,13 @@
 **Thoughts:** I am so excited to start JavaScript on Friday! I have been wanting to get to JavaScript since I started 100 days of Code. I am also happy to have finished my first certificate. I am not going to quit 100 days of code no matter.
 **Link to work:** https://www.freecodecamp.org/yarreech and https://codepen.io/yarreech/full/GRZpoXv and https://codepen.io/yarreech/full/ExKVpGe
 
+### Day 18: August 14 Friday
+
+**Today's Progress**: Started and I am about a quarter of the way through the Basic JavaScript Course on Freecodecamp.org 
+
+**Thoughts:** I am happy to be on the Javascript course and i can't wait to start using Javascript to build some cool projects!
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
 
 
 

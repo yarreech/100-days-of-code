@@ -132,6 +132,21 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
+### Day 19: August 15 Saturday
+
+**Today's Progress**: Recieved my certificate in Responsive Web Design from @FreeCodeCamp.org 
+
+**Thoughts:** Wow, I am so happy to recieve this certificate, I know once I recieve my JavaScript one i can start apply to jobs and that makes me so excited!
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 20: August 16 Sunday
+
+**Today's Progress**: Halfway through the Basic JavaScript Course on Freecodecamp.org learned alot today working with functions and arrays mainly. 
+
+**Thoughts:** I can't wait to start doing some actual javascript projects. I also think i will start incorporating the codecademy courses to help strengthen me as well. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
 
 
 

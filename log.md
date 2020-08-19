@@ -149,6 +149,21 @@
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
 
+### Day 21: August 17 Monday
+
+**Today's Progress**: 80% done the Basic JavaScript Course on Freecodecamp.org, a lot of nested loops. 
+
+**Thoughts:** I really like watching the video tutorials to help me along, so greatful for all the youtube channels!
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 22: August 18 Tuesday
+
+**Today's Progress**: Finished the JavaScript Course on Freecodecamp.org. Was quite challenging so I am glad i did not give up.  
+**Thoughts:** I miss making projects like the ones on my portfolio but i know that in order to make the projects i want i have to get through the boring bits. just keep pushing and doing the work.  
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
 
 
 

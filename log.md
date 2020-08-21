@@ -164,6 +164,20 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
+### Day 23: August 19 Wednesday
+
+**Today's Progress**: Started working on the ES6 course on Freecodecamp.org, its about using the latest version of Javascript. 
+**Thoughts:** I am suprised that some browsers still do not support a version of Javascript that was updated in 2015. Thats 5 years ago. 
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+
+### Day 24: August 20 Thursday
+
+**Today's Progress**: I'm now half way through my ES6 course, I plan to be finished by Saturday. Today I mainly spent on learning to use the destructuring assignment on arrays and objects.   
+**Thoughts:**  
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
 
 
 

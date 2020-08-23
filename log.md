@@ -178,6 +178,22 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
+### Day 25: August 21 Friday
+
+**Today's Progress**: Spent most of the day watching Javascript tutorials from youtube, worked a bit on the ES6 course. 
+
+**Thoughts:**  So greatful for all the programmers that spend their time making video tutorials to help others. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 26: August 22 Saturday
+
+**Today's Progress**: Finished my ES6 course! 
+
+**Thoughts:**  Glad to be done but i think i want to spend some time from courses to make some projects. I think i learn best that way. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
 
 
 

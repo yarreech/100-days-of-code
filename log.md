@@ -194,6 +194,22 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
+### Day 27: August 23 Sunday
+
+**Today's Progress**: Started the Regular expressions course on freecodecamp.org 
+
+**Thoughts:**  I am anxious to get to the projects portion of this certificate. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 28: August 24 Monday
+
+**Today's Progress**: Halfway done my Regular Expressions course! 
+
+**Thoughts:** I started exercising and i think its starting to help with my mental clarity. Plan to finish this course by the middle of the week.
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
 
 
 

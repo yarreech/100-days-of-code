@@ -210,6 +210,22 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
+### Day 29: August 25 Tuesday
+
+**Today's Progress**: Finished the Regular Expressions course! Now to start the Debugging course.  
+
+**Thoughts:** I hurt my ankle running so it was diffcult to code today but i did manage to finish the Regex course and start debugging. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 30: August 26 Wednesday
+
+**Today's Progress**: Finished the Debugging course. Now i get to start the Data Structure course.   
+
+**Thoughts:** I just realized I am a third of the way done my #100 days of code wow! I eally want to think about independent projects i can already start to do using what i know. I will google it and see tomorrow. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
 
 
 

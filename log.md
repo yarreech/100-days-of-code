@@ -226,6 +226,22 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
+### Day 31: August 27 Thursday
+
+**Today's Progress**: Halway finished the Data Structure course.   
+
+**Thoughts:** I feel really feel tired these last few days so i haven't gotten as much as i would like done. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 32: August 28 Friday
+
+**Today's Progress**: Finished the Data Structure course now on to the Algorithms course.   
+
+**Thoughts:** So its actually tomorrow on Saturday that i am offically 33 days into #100daysofcode, so i want to do something special to celebrate. I am going to see if i can finish the whole Algorithms course and maybe make a small project in javascript like tic tac toe? 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
 
 
 

@@ -242,9 +242,38 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
+### Day 33: August 29 Saturday
+
+**Today's Progress**: Working on the algorithms course but i need a break so i am currently following a tic tac toe tutorial https://www.youtube.com/watch?v=P2TcQ3h0ipQ&feature=emb_title  as a diversion.   
+
+**Thoughts:** I think i have been focused on doing the courses for so long that following the youtube video tutorial feels like a refreshing way to learn. 
+
+**Link to work:** https://codepen.io/yarreech/pen/poywOyL
 
 
+### Day 34: August 30 Sunday
+
+**Today's Progress**: Finished building the tic tac toe game from https://www.youtube.com/watch?v=P2TcQ3h0ipQ&feature=emb_title.  
+
+**Thoughts:** Learned a lot from following the tutorial and also am reminded of why i like to programming in the first place. Building things people can use and see. 
+
+**Link to work:** https://codepen.io/yarreech/pen/poywOyL
 
 
+### Day 34: August 31 Monday
+
+**Today's Progress**: Finished the Basic Algorithm Scripting Course from FreeCodeCamp. 
+
+**Thoughts:** Tomorrow is September first so I feel really motivated to get a lot of things done, September feels like new year for a lot of students/former students like myself. I definetly want to finish the rest of the JavaScript course within 2 weeks. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 34: September 1 Tuesdsay
+
+**Today's Progress**: Finished the Object Oriented Programming Course from Free Code Camp.   
+
+**Thoughts:** Slow and steady wins the race, so glad that I am sticking to it and making progress. I am going to start pushing more code to github rather than just focusing on using codepen.io, 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
 
 

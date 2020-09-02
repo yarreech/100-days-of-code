@@ -260,7 +260,7 @@
 **Link to work:** https://codepen.io/yarreech/pen/poywOyL
 
 
-### Day 34: August 31 Monday
+### Day 35: August 31 Monday
 
 **Today's Progress**: Finished the Basic Algorithm Scripting Course from FreeCodeCamp. 
 
@@ -268,7 +268,7 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
-### Day 34: September 1 Tuesdsay
+### Day 36: September 1 Tuesdsay
 
 **Today's Progress**: Finished the Object Oriented Programming Course from Free Code Camp.   
 

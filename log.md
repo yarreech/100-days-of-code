@@ -276,4 +276,28 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
+### Day 37: September 2 Wednesday
+
+**Today's Progress**: Today I began the Functional Programming Course on freecodecamp.org, completed up to 30% of it.
+
+**Thoughts:** Anxious to finish these courses and get started on the final five projects. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 38: September 3 Thursday
+
+**Today's Progress**: I was planning to finish the rest of the course today but i only made it to 50% I had a lot of chores to do and helping my siblings with back to school. 
+
+**Thoughts:** For some reason when i try to push from codepen.io to github it only lets me form a gist. So i might have to start using sublime text instead. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+
+### Day 39: September 4 Friday
+
+**Today's Progress**: I finished the Functional Programming Course so I just have to finish the last intermediate algorithmic scripting course and than i can begin the projects and then recieve my certificate. 
+
+**Thoughts:** I am going to be making sure that i can push these 5 projects to my github. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
 

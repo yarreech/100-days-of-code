@@ -301,3 +301,59 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
+### Day 40: September 5 Saturday
+
+**Today's Progress**: Today I started the final course for my JavaScript Certification prior to the 5 code projects; The intermediate algorithmic Scripting Course. 
+
+**Thoughts:** Feeling that my github is sparse hoping to star the 5 projects soon so i can push them to github. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 41: September 6 Sunday
+
+**Today's Progress**: Today I finished almost half of The intermediate algorithmic Scripting Course. 
+
+**Thoughts:** I was hoping to finish this course today but it is quite difficult. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 42: September 7 Monday
+
+**Today's Progress**: I am still not finished The intermediate algorithmic Scripting Course although I am not 70% finished.  
+
+**Thoughts:** FreeCodeCamp has a free math course that i may use, just to refresh myself on certian skills. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 43: September 8 Tuesday
+
+**Today's Progress**: Finally finished The intermediate algorithmic Scripting Course. Now I can move on to the final projects!
+
+**Thoughts:** I am so excited to start the final projects because i love actually building something.
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 44: September 9 Wednesday
+
+**Today's Progress**: Today I started the first of the final five projects for my JavaScript Certification. I am working on writing a palindrome checker. 
+
+**Thoughts:** Though it is not necessary, i am also making a full version with html and css to upload to codepen, I love using multiple languages together and creating something beautiful and interactive that people can actually use. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 45: September 10 Thursday
+
+**Today's Progress**: Finished the javascript for the palindrome checker thus completing the mandatory part for @freecodecamp, but working on a version that combines html, css, and javascript on codepen.
+
+**Thoughts:** I am technically 'finished' but i am working on a more fleshed out version on codepen as well just for the pratice and because i like it :)
+
+**Link to work:** https://www.freecodecamp.org/yarreech , https://codepen.io/yarreech/full/bGpMbLE
+
+### Day 46: September 11 Friday
+
+**Today's Progress**: Finished the codepen palindrome checker. So now i have to move on to project 2.  
+
+**Thoughts:** I was able to get the files for this project uploaded from codepen to my repo but not all under one folder? I don't know what is going on but i really want to make sure that i am able to upload my projects to github.  
+
+**Link to work:** https://www.freecodecamp.org/yarreech , https://codepen.io/yarreech/full/bGpMbLE
+

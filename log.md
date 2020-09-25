@@ -357,3 +357,35 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech , https://codepen.io/yarreech/full/bGpMbLE
 
+### Day 47: September 12 Saturday
+
+**Today's Progress**: Finished project 2 the roman numeral converter.  
+
+**Thoughts:** I've decided not to make a codepen version of this until i figure this out.  
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 48: September 13 Sunday
+
+**Today's Progress**: Finished project 3 Caesar's cipher.  
+
+**Thoughts:** I found the projects for the hmtl course to be really fun and exciting but these are kind of dull.   
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 49: September 14 Monday
+
+**Today's Progress**: Finished project 4 Telephone number validator.
+
+**Thoughts:** i think i understand that these projects are all about functionality.   
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 50: September 15 Tuesday
+
+**Today's Progress**: Finished the final project and got my javascript certification. 
+
+**Thoughts:** i am so happy to be finished Javascript and halfway through 100 days. I'm excited to see what the next 50 days are like!
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+

@@ -389,3 +389,98 @@
 
 **Link to work:** https://www.freecodecamp.org/yarreech 
 
+### Day 51: September 16 Wednesday
+
+**Today's Progress**: Today i started the front End Libraries course on freecodecamp.org
+
+**Thoughts:** i am most excited to learn REACT so i can start to build applications.
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 52: September 17 Thursday
+
+**Today's Progress**: I finished a third of the Bootstraps course from freecodecamp today. 
+
+**Thoughts:** Slow start but i will try to make up for in the coming days.
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+
+### Day 53 - 54: September 18 Friday and September 19 Saturday
+
+**Today's Progress**: Finished the Bootstraps course, the Jquery course, and I am 70% done the SASS course.
+
+**Thoughts:** Productive two days, also learned how to use desktop github. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 55: September 20 Sunday
+
+**Today's Progress**: Finished the SASS course from freecodecamp.org! 
+
+**Thoughts:** i am so happy to be finished Sass and finally start REACT.
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 56: September 21 Monday
+
+**Today's Progress**: Today I started the REACT course from freecodecamp.org
+
+**Thoughts:** I have seen a number of amazing applications and projects built with React so i am excited to work with it.
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 57: September 22 Tuesday
+
+**Today's Progress**: The course it a bit challenging but i managed to finish a quarter of it today.  
+
+**Thoughts:** I understand that REACT components are like javascript functions but i dont understand the constructor class method's purpose, or super(). 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 57: September 22 Tuesday
+
+**Today's Progress**: The course it a bit challenging but i managed to finish a quarter of it today.  
+
+**Thoughts:** I understand that REACT components are like javascript functions but i dont understand the constructor class method's purpose, or super(). 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 58 - 59 : September 23 Wednesday and September 24 Thursday
+
+**Today's Progress**: I am 60% done the REACT course 
+
+**Thoughts:** I am not feeling so great. I feel like i rely heavily on the get help button. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 60: September 25 Friday
+
+**Today's Progress**: Not much of a difference from yesterday, still working on the REACT course from freecodecamp.org
+
+**Thoughts:** Thank god for youtube tutorials. 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+### Day 61-63 : September 26 Saturday, September 27 Sunday, September 28 Monday
+
+**Today's Progress**: I've pushed through and gotten 87% of the REACT course finished.  
+
+**Thoughts:** I enjoyed the inline styles section of the course as well as the if/else conditions. As for everything else .... 
+
+**Link to work:** https://www.freecodecamp.org/yarreech 
+
+                                                                         ~~~ BREAK ~~~
+
+### Day 64-66: September 29 Tuesday, September 30 Wednesday, October 1 Thursday
+
+**Today's Progress**: Taking an unexpected mental health break :)  
+
+**Thoughts:** I am not quitting, but i am taking a break and will get back in the saddle when im ready
+
+**Link to work:** NULL
+
+                                                                        ~~~ BREAK ~~~
+
+
+
